@@ -1,4 +1,4 @@
-MultipleAssertionsTest.package org.assertj.scripts;
+package org.assertj.scripts;
 
 import org.junit.jupiter.api.Test;
 import java.util.Arrays;
